@@ -24,13 +24,13 @@ const projects = [
 ];
 
 const Portfolio = () => (
-  <section class="page-section">
+  <section class="page-section background">
     <h2>My Projects</h2>
-    <div className="project-grid">
+    {/* <div className="project-grid">
       {projects.map((p, i) => <Project key={i} {...p} />)}
-    </div>
+    </div> */}
 
-    {/* <div class="flex-container">
+    <div class="flex-container">
 
       <a href="#" class="flex-item surf-report">
         <div>
@@ -67,7 +67,7 @@ const Portfolio = () => (
   </div>
 </a>
 
-</div> */}
+</div>
   </section>
 );
 

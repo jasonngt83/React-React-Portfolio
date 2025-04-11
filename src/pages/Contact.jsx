@@ -1,5 +1,5 @@
 const Contact = () => (
-    <section>
+    <section class="background">
       <h2>Contact Me</h2>
       <p>Phone: (123) 456-7890</p>
       <p>Email: jasonngt83@gmail.com</p>

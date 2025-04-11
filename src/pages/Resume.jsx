@@ -1,6 +1,6 @@
 const Resume = () => {
   return (
-    <div>
+    <div class="background">
       <h1>Resume</h1>
       
       <a href="https://example.com/resume.pdf" target="_blank" rel="noopener noreferrer">Download My Resume</a>

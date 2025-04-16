@@ -314,11 +314,11 @@ footer {
 
 
 /* Contact Section */
-section {
+ section {
   padding: 2rem;
   max-width: 600px;
   margin: auto;
-}
+} 
 
 form {
   display: flex;

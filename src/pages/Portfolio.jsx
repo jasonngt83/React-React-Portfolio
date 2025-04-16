@@ -24,7 +24,7 @@ const projects = [
 ];
 
 const Portfolio = () => (
-  <section class="page-section background">
+  <div class="page-section background">
     <h2>My Projects</h2>
     {/* <div className="project-grid">
       {projects.map((p, i) => <Project key={i} {...p} />)}
@@ -68,7 +68,7 @@ const Portfolio = () => (
 </a>
 
 </div>
-  </section>
+  </div>
 );
 
 export default Portfolio;

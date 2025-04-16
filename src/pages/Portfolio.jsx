@@ -34,36 +34,36 @@ const Portfolio = () => (
 
       <a href="#" class="flex-item surf-report">
         <div>
-        <h3>Surf Report</h3>
-        <span>MERN Stack</span>
+        <h3>Finance Tracker</h3>
+          <a href="https://github.com/jasonngt83/Finance_Tracker" target="_blank" rel="noopener noreferrer"  >GitHub</a>
         </div>
       </a>
 
 <a href='#' className='flex-item led-wall'>
   <div>
-    <h3>LED Wall</h3>
-    <span>Node/IoT</span>
+    <h3>Popup Trivia Game</h3>
+    <a href="https://github.com/Schanze117/PopUpTrivia" target="_blank" rel="noopener noreferrer" >GitHub</a>
   </div>
 </a>
 <a href="#" class="flex-item react-calc">
   <div>
-    <h3>Calculator</h3>
-    <span>React/JavaScript/CSS</span>
+    <h3>Employee Tracker</h3>
+    <a href="https://github.com/jasonngt83/Module10Challenge" target="_blank" rel="noopener noreferrer" >GitHub</a>
   </div>
 </a>
 
 <a href="#" class="flex-item pastel-puzzles">
   <div>
-    <h3>Pastel Puzzels</h3>
-    <span>MERN Stack</span>
+    <h3>Full Stack React Kanban Board</h3>
+    <a href="https://github.com/jasonngt83/Challenge14-Full-Stack-React-Kanban-Board" target="_blank" rel="noopener noreferrer" >GitHub</a>
   </div>
 </a>
 
 
 <a href="#" class="flex-item run-buddy">
   <div>
-    <h3>Run Buddy</h3>
-    <span>HTML/CSS</span>
+    <h3>Typescript Vehicle Builder</h3>
+    <a href="https://github.com/jasonngt83/TypeScript-and-OOP-Vehicle-Builder" target="_blank" rel="noopener noreferrer" >GitHub</a>
   </div>
 </a>
 
